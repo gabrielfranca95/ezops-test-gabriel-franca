@@ -31,3 +31,4 @@ E os pacotes devem ser instalados da seguinte forma:
 ```
 npm install -s module_name
 ```
+#### Em breve estarei commitando os seguintes passos do tutorial.
